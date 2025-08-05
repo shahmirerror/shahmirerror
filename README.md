@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shahmir 👋
 
-<!--
-**shahmirerror/shahmirerror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer with 6+ years of experience, specializing in Laravel, Vue, React, and Python.
 
-Here are some ideas to get you started:
+## 🌐 Projects
+- 🐾 [GSDCP.org](https://gsdcp.org) — Official website for the German Shepherd Dog Club of Pakistan
+- ☁️ [Inspedium.Cloud](https://inspedium.cloud) — Managed cloud hosting platform
+- 🌍 [KennelClub.pk](https://kennelclub.pk) — National dog registry portal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+![Laravel](https://img.shields.io/badge/-Laravel-red)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D)
+![React](https://img.shields.io/badge/-React-61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933)
+![Python](https://img.shields.io/badge/-Python-3776AB)
+
+## 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Website](https://yourwebsite.com)
