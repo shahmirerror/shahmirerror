@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Full Stack Developer | Laravel Expert | Cloud Engineer</strong><br/>
-  Development Team Lead @ Inspedium Corporation · Former ACM Chapter Lead @ MAJU
+  Development Team Lead @ Inspedium Corporation · Current ACM Student Chapter Chair @ MAJU
 </p>
 
 <p align="center">
