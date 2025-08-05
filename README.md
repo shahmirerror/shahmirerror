@@ -1,82 +1,69 @@
-# 👋 Hi, I'm Shahmir Sindhu
+<h1 align="center">👋 Hi, I'm Shahmir Sindhu</h1>
 
-**Development Team Lead @ Inspedium Corporation**  
-📍 Karachi, Pakistan :contentReference[oaicite:4]{index=4}
+<p align="center">
+  <strong>Full Stack Developer | Laravel Expert | Cloud Engineer</strong><br/>
+  Development Team Lead @ Inspedium Corporation<br/>
+  Former ACM Chapter Lead @ MAJU
+</p>
 
----
-
-## 💼 About Me
-
-- Full-stack web developer specializing in Laravel, Livewire, Vue.js, React, and Node.js.  
-- Proven experience building scalable platforms like **Inspedium.Cloud**, **kennelclub.pk**, and **gsdcp.org**, and custom API projects like **DeepL Translator**.  
-- Passionate about performance, security, and seamless user experiences.
-
----
-
-## 🚀 Highlights & Projects
-
-| Project | Description |
-|--------|-------------|
-| **Inspedium.Cloud** | Managed deployment & hosting platform across AWS, GCP, Azure, Linode. |
-| **KennelClub.pk** | National purebred dog registry and pedigree management. |
-| **GSDCP.org** | Official platform for the German Shepherd Dog Club of Pakistan. |
-| **DeepL Translator** | Laravel/PHP frontend for DeepL API translation flow. |
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahmir-sindhu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01dbbd300d9a61ce2a" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
+  </a>
+  <a href="https://shahmirsindhu.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-shahmirsindhu.com-black?style=for-the-badge" alt="Portfolio">
+  </a>
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 About Me
 
-![Laravel](https://img.shields.io/badge/-Laravel-red)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D)
-![React](https://img.shields.io/badge/-React-61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933)
-![PHP](https://img.shields.io/badge/-PHP-787CB5)
-![MySQL](https://img.shields.io/badge/-MySQL-orange)
-![AWS](https://img.shields.io/badge/AWS-cloud-orange)
+I'm a passionate Full Stack Developer with **6+ years of experience**, specializing in **Laravel**, **Livewire**, **Vue**, **React**, and **cloud infrastructure**. From building scalable registries to custom deployment platforms, I love transforming complex ideas into elegant, functional products.
+
+> 🧠 Former **ACM Chapter Lead** at MAJU — organized workshops, hackathons, and tech mentoring sessions for junior developers.
 
 ---
 
-## 📝 Experience Snapshot
+## 🧩 Highlight Projects
 
-- **Inspedium Corporation** – Development Team Lead (since Jan 2023) ⁠— overseeing web apps, system architecture, and team workflows :contentReference[oaicite:5]{index=5}  
-- Successfully led projects including Inspedium.Cloud deployments, CRM tools, and OTT backends.  
-
----
-
-## 📈 Upwork Highlights
-
-- Top-rated freelancer with **5.0 reviews (28 reviews)** in **Development & IT, Project Management, Ops** categories :contentReference[oaicite:6]{index=6}  
-- Specializes in streamlining operations, automation (Zapier, Make), and full-stack Laravel delivery.
+| Project         | Description                                                                                      | Link                          |
+|-----------------|--------------------------------------------------------------------------------------------------|-------------------------------|
+| **GSDCP.org**   | Official website for the German Shepherd Dog Club of Pakistan                                     | [gsdcp.org](https://gsdcp.org) |
+| **KennelClub.pk** | National online dog registry and pedigree platform for Pakistan                                | [kennelclub.pk](https://kennelclub.pk) |
+| **Inspedium.Cloud** | Managed cloud hosting & deployment platform across AWS, Azure, and Vultr                     | [inspedium.cloud](https://inspedium.cloud) |
+| **DeepL Translator** | Frontend translator app integrated with DeepL API                                            | [Repo](https://github.com/shahmirerror/deepl-translator) |
 
 ---
 
-## 📬 Get in Touch
+## 🛠️ Tech Stack
 
-- LinkedIn: [Shahmir Sindhu](https://www.linkedin.com/in/shahmir-sindhu) :contentReference[oaicite:7]{index=7}  
-- Portfolio & Blog: [shahmirsindhu.com](https://www.shahmirsindhu.com/blogs/) :contentReference[oaicite:8]{index=8}  
-- Services: [Development Consultations](https://www.upwork.com/services/consultation/development-it-shahmir-1478017764923375616) on Upwork :contentReference[oaicite:9]{index=9}  
-
----
-
-## 🎯 Why Work With Me?
-
-- Deep technical proficiency in Laravel, cloud hosting tools, and interactive UI stacks.  
-- Strong project management, API integrations, and client communication experience.  
-- Track record of delivering quality product timelines across domains like hosting, e-commerce, and platforms.
+<p>
+  <img src="https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffcb2b?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ---
 
-## 📎 Fun & Extras
+## 🌍 Let's Connect
 
-- 🔧 Devops/Automation enthusiast  
-- 📚 Enjoys writing blogs and tutorials on Laravel & cloud setups  
-- 🌱 Currently exploring scalable Kubernetes deployments
-
----
-
-> 🚧 This README is designed for professional showcase only and does not expose private code or repo links.
+- 🌐 Website & Portfolio: [shahmirsindhu.com](https://shahmirsindhu.com)
+- 💼 Upwork: [Shahmir on Upwork](https://www.upwork.com/freelancers/~01dbbd300d9a61ce2a)
+- 💬 LinkedIn: [linkedin.com/in/shahmir-sindhu](https://www.linkedin.com/in/shahmir-sindhu)
 
 ---
 
-Would you like me to refine further with visuals, exact portfolio links, or social badges (LinkedIn, Upwork, blog)?
-::contentReference[oaicite:10]{index=10}
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahmirerror&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahmirerror&theme=radical" alt="GitHub Streak" />
+</p
