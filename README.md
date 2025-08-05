@@ -76,7 +76,7 @@ I'm a passionate full stack developer with over 6 years of experience building s
 
 ## 💡 Fun Fact
 
-> I enjoy building complex dog pedigree systems, working with DevOps automation, and mentoring devs from scratch to scalable.
+> I enjoy building complex systems, working with DevOps automation, and mentoring devs from scratch to scalable.
 
 ---
 
