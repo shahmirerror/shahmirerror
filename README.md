@@ -24,7 +24,7 @@
 I'm a passionate full stack developer with over 6 years of experience building scalable platforms, clean UIs, and API-driven architectures.
 
 💼 Currently leading development at **Inspedium Corporation**  
-🎓 Current ACM Chapter Chair @ **MAJU**  
+🎓 Current ACM Student Chapter Chairperson @ **MAJU**  
 🧠 I love working on high-performance Laravel apps and cloud deployment workflows.
 
 ---
