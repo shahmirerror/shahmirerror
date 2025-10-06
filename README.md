@@ -37,6 +37,7 @@ I'm a passionate full stack developer with over 6 years of experience building s
 | **KennelClub.pk**    | National dog registry with pedigree lineage explorer                     | [kennelclub.pk](https://kennelclub.pk) |
 | **Inspedium.Cloud**  | Managed cloud app deployment across AWS, Azure, GCP, and more            | [inspedium.cloud](https://inspedium.cloud) |
 | **Ciel Press Digital**  | Fully responsive, high-performance marketing website            | [ciel-press-digital.vercel.app](https://ciel-press-digital.vercel.app/) |
+| **Mini Hues Official**  | Premium Shopify-based e-commerce store            | [minihuesofficial.com](https://minihuesofficial.com) |
 | **DeepL Translator** | Frontend for neural translation with DeepL API                           | [View Repo](https://github.com/shahmirerror/deepl-translator) |
 
 ---
